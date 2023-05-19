@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(19, 19, 62);
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 200px;
+    font-size: 40px;
+}
+
+a.page-link,
+a.page-link:visited {
+    color: white !important;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+a.page-link:hover {
+    color: white;
+}
